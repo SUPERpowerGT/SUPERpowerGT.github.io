@@ -4,33 +4,43 @@ layout: default
 
 
 
-[shader](./another-page.html).
+# Hey bro，look at me！
 
-[git](./github.html).
+Hello my bro,nice to meet you!
 
-## Hey bro，look at me！
+ I will keep my study notes and some miscellaneous things so that this blog is called ***UTILITY ROOM***.
 
-你好呀，陌生人，在这里，我将会记录我的社畜码农学习生活，简称杂物间，也就是我blog名字的由来hhh，希望你能搁着有些收获。
+I really hope you find something and it will be the biggest encouragement to me.
 
 ------
 
 
 
-### 简要
+### Preface
 
-谈及为何搭建自己的blog多功亏于我亲爱的学长和室友，花费一下午沉浸式学习成功整出来一个拼接式blog，不管怎么说，算是成功了hhh，在这特别感谢廖雪峰先生对于git深入浅出的介绍和恬静的小魔龙对于如何基于github page搭建静态页面详细解答，后附上链接帮助更多有需要的人。
+Talk about why I set up my own blog thanks to my dear seniors and roommates. Even though it took me half a day to put together a spliced blog. Anyway, it was a success HHH. I hope to work hard on the rest of my code journey.
+
+### Learning notes
+
+####  Unity Shader
+
+[shader](./another-page.html).
+
+#### Git
+
+[git](./github.html).
+
+#### 
+
+------
+
+
+
+### In the ctedit
 
 [廖雪峰git教程：](https://www.liaoxuefeng.com/wiki/896043488029600).
 
 [恬静的小魔龙搭建静态网页教程：](https://blog.csdn.net/q764424567/category_9679548.html).
-
-- 廖雪峰git教程：
-
-  https://www.liaoxuefeng.com/wiki/896043488029600
-
-- 恬静的小魔龙搭建静态网页教程：
-
-  https://blog.csdn.net/q764424567/category_9679548.html
 
 
 
