@@ -16,31 +16,31 @@ I really hope you find something and it will be the biggest encouragement to me.
 
 
 
-### Preface
+## Learning notes
 
-Talk about why I set up my own blog thanks to my dear seniors and roommates. Even though it took me half a day to put together a spliced blog. Anyway, it was a success HHH. I hope to work hard on the rest of my code journey.
+- Unity Shader:
+  - [shader1](./another-page.html).
+  - [shader2](./another-page.html).
+  - [shader3](./another-page.html).
+- Git:
+  - [git](./github.html).
+  - [github](./github.html).
+  - [github page](./github.html).
+  - [Jekyll Themes](http://jekyllthemes.org/page2/).
 
-### Learning notes
 
-####  Unity Shader
-
-[shader](./another-page.html).
-
-#### Git
-
-[git](./github.html).
-
-#### 
 
 ------
 
+## Epilogue
 
+Talk about why I set up my own blog thanks to my dear seniors and roommates. Even though it took me half a day to put together a spliced blog. Anyway, it was a success HHH. I hope to work hard on the rest of my code journey.
 
-### In the ctedit
+**In the credit**
 
-[廖雪峰git教程：](https://www.liaoxuefeng.com/wiki/896043488029600).
+[git—liaoxuefeng](https://www.liaoxuefeng.com/wiki/896043488029600).
 
-[恬静的小魔龙搭建静态网页教程：](https://blog.csdn.net/q764424567/category_9679548.html).
+[static web page—csdn](https://blog.csdn.net/q764424567/category_9679548.html).
 
 
 
