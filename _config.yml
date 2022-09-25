@@ -1,8 +1,11 @@
 title: Mochi theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+description:WELCOME TO MY BLOG
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-repository: github_username/github_username.github.io
-github_url: https://github.com/github_username
-url: https://github_username.github.io
+repository: SUPERpowerGT/SUPERpowerGT.github.io
+github_url: https://github.com/SUPERpowerGT
+url: https://SUPERpowerGT.github.io
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
